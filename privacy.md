@@ -1,12 +1,13 @@
 
+<h1> Zásady ochrany osobních údajů </h1>
+
 Poslední aktualizace: 12.09.2026
 
-Zásady ochrany osobních údajů
 
-Správce údajů: \
-Tomáš Bílek \ 
-Jurkovičova 988/24, Praha 4, 149 00\
-IČO: 87391732 \
+**Správce údajů:** \
+Tomáš Bílek  
+Jurkovičova 988/24, Praha 4, 149 00 \
+IČO: 87391732 
 
 E-mail: kaktusidobijecka@seznam.cz
 
